@@ -1,5 +1,8 @@
 # personal-site
 
+## Tracking
+To track progress see Trello: https://trello.com/b/wm9reu0v/pesonal-website
+
 ## Build Setup
 
 ```bash
